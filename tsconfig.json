@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "./dist",
-    "module": "NodeNext",           // <- исправлено
+    "module": "NodeNext",          
     "moduleResolution": "NodeNext",
     "target": "ES2020",
     "types": [],
